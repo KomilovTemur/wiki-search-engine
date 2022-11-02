@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Wikipedia search engine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## working with wikipeida api
+
+![screenShot](https://raw.githubusercontent.com/KomilovTemur/wiki-search-engine/main/Readme/screenshot.png)
+
+[Preview This project](https://wikipedia-search-engine-reactjs.netlify.app/)
+
+---
 
 ## Available Scripts
 
