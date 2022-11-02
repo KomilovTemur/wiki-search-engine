@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply text-2xl outline-none
+}
+
+
+body {
+  @apply bg-slate-600
+}
